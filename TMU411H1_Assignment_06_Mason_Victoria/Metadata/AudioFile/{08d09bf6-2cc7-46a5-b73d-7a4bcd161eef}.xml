@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{08d09bf6-2cc7-46a5-b73d-7a4bcd161eef}">
+		<property name="assetPath">
+			<value>mus_4-4-120bpm_outro.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>13.665229166666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f66bf413-e5bf-4991-9330-5445451879b9}</destination>
+		</relationship>
+	</object>
+</objects>

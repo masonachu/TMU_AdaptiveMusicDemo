@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{8df5a31d-dc98-401d-8db0-b62e03381447}">
+		<property name="assetPath">
+			<value>mus_stinger_cymbal-120bpm.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.7723958333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f66bf413-e5bf-4991-9330-5445451879b9}</destination>
+		</relationship>
+	</object>
+</objects>
